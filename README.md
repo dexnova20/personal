@@ -1,3 +1,3 @@
 #namaste
-this is kuch toh
+this is kuch to
 duniyaaa
