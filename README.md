@@ -1,3 +1,3 @@
-#namaste
-this is kuch toh pata ni
+# namaste
+this is kuch toh 
 duniyaaa
